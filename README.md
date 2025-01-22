@@ -38,3 +38,37 @@ This is a synthetic dataset created for educational and analytical purposes.
 While it aims to mimic real-world patterns, it does not represent actual transactions or real individuals.
 The dataset can be used for various data science projects, including but not limited to exploratory data analysis, machine learning model development, and data visualization exercises.
 
+
+
+<img width="664" alt="Visual 1" src="https://github.com/user-attachments/assets/e2db6d60-d5d9-482c-9fcd-da819e4e126b" />
+
+<img width="665" alt="Visual 2" src="https://github.com/user-attachments/assets/92e6e760-5842-48d3-8e72-300875143c87" />
+
+<img width="665" alt="Visual 3" src="https://github.com/user-attachments/assets/d080b507-e54d-4ee6-9a5f-18f08f83df75" />
+
+<img width="663" alt="Visual 4" src="https://github.com/user-attachments/assets/167e52c1-1be4-4b2a-8a1f-5d24756c448d" />
+
+<img width="659" alt="Visual 5" src="https://github.com/user-attachments/assets/03a35c43-798b-4648-b0b5-f4190b168a72" />
+
+<img width="662" alt="Visual 6" src="https://github.com/user-attachments/assets/05513e15-34f2-4ea4-85f3-5ef84b376ad6" />
+
+<img width="663" alt="Visual 7" src="https://github.com/user-attachments/assets/197df38b-9c1f-4fd2-a37d-ce17f5d5febc" />
+
+<img width="660" alt="Visual 8" src="https://github.com/user-attachments/assets/c76bc4df-bdf8-401b-b5b8-f6492a0fc70d" />
+
+<img width="767" alt="Visual 9" src="https://github.com/user-attachments/assets/a0a04a7f-294d-433d-9898-9ea6d8207077" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
